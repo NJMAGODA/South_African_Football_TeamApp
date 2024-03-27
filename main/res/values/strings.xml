@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">South African Football app</string>
+    <string name="cityinput">cityInput</string>
+    <string name="findteambutton">findTeamButton</string>
+    <string name="resulttext">resultText</string>
+    <string name="enter_a_city_in_south_africa">Enter a city in South Africa</string>
+    <string name="search">Search</string>
+    <string name="city" />
+</resources>
